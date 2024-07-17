@@ -48,11 +48,11 @@ I co-own a clothing brand called 'Dangerously Tenacious' with my cousin.
 ### 📂 Repo List
 Welcome to my repo! I am a Computer Science major with a passion for development and innovation. Within my repo, you will find a variety of projects ranging from web applications to database systems. Below are a few of my repositories, mostly for educational purposes.
 
-- **[Dangerously Tenacious Store](https://github.com/yourusername/Dangerously-Tenacious-Store)**: An e-commerce website built with the MERN stack.
-- **[HaAmiSphere](https://github.com/yourusername/HaAmiSphere)**: A social media app for users to connect and share content.
-- **[Employee Tracker Database](https://github.com/yourusername/Employee-Tracker-Database)**: A system for managing employee information.
-- **[Chat Application](https://github.com/yourusername/Chat-Application)**: A real-time messaging app.
-- **[Personal Portfolio Website](https://github.com/yourusername/Personal-Portfolio-Website)**: A showcase of my projects and skills.
+- **[Dangerously Tenacious Store](https://github.com/Hassan-Stewart/Dangerously-Tenacious-Store)**: An e-commerce website built with the MERN stack.
+- **[HaAmiSphere](https://github.com/Hassan-Stewart/HaAmiSphere)**: A social media app for users to connect and share content.
+- **[Employee Tracker Database](https://github.com/Hassan-Stewart/Employee-Tracker-Database)**: A system for managing employee information.
+- **[Chat Application](https://github.com/Hassan-Stewart/Chat-Application)**: A real-time messaging app.
+- **[Personal Portfolio Website](https://github.com/Hassan-Stewart/Personal-Portfolio-Website)**: A showcase of my projects and skills.
 
 Feel free to explore these repositories to see what I'm working on and to get a sense of my development journey.
 
