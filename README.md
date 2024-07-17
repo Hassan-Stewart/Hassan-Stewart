@@ -5,11 +5,11 @@
 Hi, I'm Hassan! I'm a Computer Science major with a background in Information Technology. I am an aspiring Software Developer looking to create and innovate
 
 ### 🔭 Current Projects
-- **E-commerce Website (Dangerously Tenacious Store)**: Full-stack application using the MERN stack, guided by YouTube tutorials.
-- **Social Media App (HaAmiSphere)**: Platform for users to connect and share content, following step-by-step online guides.
-- **Employee Tracker Database**: System for managing employee information, with the help of online resources.
-- **Chat Application**: Real-time messaging app developed by following tutorial videos.
-- **Personal Portfolio Website**: Showcase of my projects and skills, created with the assistance of YouTube tutorials.
+- **E-commerce Website (Dangerously Tenacious Store)**: Full-stack application using the MERN stack.
+- **Social Media App (HaAmiSphere)**: Platform for users to connect and share content.
+- **Employee Tracker Database**: System for managing employee information.
+- **Chat Application**: Real-time messaging app.
+- **Personal Portfolio Website**: Showcase of my projects and skills.
 
 ### 🌱 Currently Learning
 - JavaScript and React
