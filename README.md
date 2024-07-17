@@ -1,60 +1,59 @@
 ## Hassan Stewart
-
 **Innovative Developer (Developer/Brand Owner)**
 
 ### About Me
+Hi, I'm Hassan! I'm a Computer Science major with a background in Information Technology. I am an aspiring Software Developer looking to create and innovate
 
-Hi, I'm Hassan! I'm a senior in Computer Science with a strong background in Information Technology. I graduated with an Associate of Science in IT and am currently nearing the completion of my Bachelor of Science in Computer Science. My ultimate career goal is to become a Software Developer, but I am also keen on exploring opportunities in IT.
+### 🔭 Current Projects
+- **E-commerce Website (Dangerously Tenacious Store)**: Full-stack application using the MERN stack, guided by YouTube tutorials.
+- **Social Media App (HaAmiSphere)**: Platform for users to connect and share content, following step-by-step online guides.
+- **Employee Tracker Database**: System for managing employee information, with the help of online resources.
+- **Chat Application**: Real-time messaging app developed by following tutorial videos.
+- **Personal Portfolio Website**: Showcase of my projects and skills, created with the assistance of YouTube tutorials.
 
-### 🔭 I’m currently working on
-
-- **E-commerce Website (Dangerously Tenacious Store)**: A full-stack application using the MERN stack, guided by YouTube tutorials.
-- **Social Media App (HaAmiSphere)**: A platform for users to connect and share content, following step-by-step online guides.
-- **Employee Tracker Database**: A system for managing employee information, with the help of online resources.
-- **Chat Application**: A real-time messaging app developed by following tutorial videos.
-- **Personal Portfolio Website**: A showcase of my projects and skills, created with the assistance of YouTube tutorials.
-
-### 🌱 I’m currently learning
-
+### 🌱 Currently Learning
 - JavaScript and React
 - Java and Python
 - HTML and CSS
-- Basic concepts of React. js, Node.js, Tailwind CSS and Express
+- Basic concepts of React.js, Node.js, Tailwind CSS, and Express
 - Data structures and algorithms
 
-### 👯 I’m looking to collaborate on
+### 👯 Looking to Collaborate On
 - Front-End applications
 - Back-End applications
 - Mobile applications
 - Learning-focused group projects
 
-### 🤔 I’m looking for help with
-
+### 🤔 Seeking Help With
 - Improving my coding skills through feedback and code reviews
-- Understanding advanced concepts in JavaScript, React, Java and Python
+- Understanding advanced concepts in JavaScript, React, Java, and Python
 - Gaining more hands-on experience in software development
 
-### 💬 Ask me about
-
+### 💬 Ask Me About
 - My journey in learning to code
 - Balancing school, work, and personal projects
 - Resources and tutorials for beginners
 
-### 📫 How to reach me
-
-- [LinkedIn](https://www.linkedin.com/in/hassan-stewart-887764164)
-- [GitHub](https://github.com/Hassan-Stewart)
-- [Email](hassan24stewart@gmail.com) 
+### 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com)
+- [GitHub](https://github.com)
+- [Email](mailto:your.email@example.com)
 
 ### 😄 Pronouns
-
 He/Him
 
-### ⚡ Fun fact
-
+### ⚡ Fun Fact
 I co-own a clothing brand called 'Dangerously Tenacious' with my cousin.
 
----
+### 📂 Repo List
+Welcome to my repo! I am a Computer Science major with a passion for development and innovation. Within my repo, you will find a variety of projects ranging from web applications to database systems. Below are a few of my repositories, mostly for educational purposes.
 
-Feel free to explore my repositories and connect with me for potential collaborations and opportunities. Let's learn and grow together!
+- **[Dangerously Tenacious Store](https://github.com/yourusername/Dangerously-Tenacious-Store)**: An e-commerce website built with the MERN stack.
+- **[HaAmiSphere](https://github.com/yourusername/HaAmiSphere)**: A social media app for users to connect and share content.
+- **[Employee Tracker Database](https://github.com/yourusername/Employee-Tracker-Database)**: A system for managing employee information.
+- **[Chat Application](https://github.com/yourusername/Chat-Application)**: A real-time messaging app.
+- **[Personal Portfolio Website](https://github.com/yourusername/Personal-Portfolio-Website)**: A showcase of my projects and skills.
+
+Feel free to explore these repositories to see what I'm working on and to get a sense of my development journey.
+
 
