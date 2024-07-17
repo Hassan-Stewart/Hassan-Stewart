@@ -1,6 +1,6 @@
 ## Hassan Stewart
 
-** 'Innovative Developer (Developer/Brand Owner)
+** 'Innovative Developer (Developer/Brand Owner)'
 
 <!--
 **Hassan-Stewart/Hassan-Stewart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
