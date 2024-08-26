@@ -31,7 +31,7 @@ Hi, I'm Hassan! I'm a Computer Science major with a background in Information Te
 
 ### 💬 Ask Me About
 - My journey in learning to code
-- Balancing school, work, and personal projects
+- Balancing school and personal projects
 - Resources and tutorials for beginners
 
 ### 📫 How to Reach Me
