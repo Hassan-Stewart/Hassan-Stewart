@@ -1,5 +1,5 @@
 ## Hassan Stewart
-**Innovative Developer (Developer/Brand Owner)**
+**Innovative Developer (Developer/Clothing Brand Owner)**
 
 ### About Me
 Hi, I'm Hassan! I'm a Computer Science major with a background in Information Technology. I am an aspiring Software Developer looking to create and innovate
