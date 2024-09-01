@@ -35,9 +35,9 @@ Hi, I'm Hassan! I'm a Computer Science major with a background in Information Te
 - Resources and tutorials for beginners
 
 ### 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com)
-- [GitHub](https://github.com)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/hassan-stewart-887764164/)
+- [GitHub](https://github.com/Hassan-Stewart)
+- [Email](hassan24stewart@gmail.com)
 
 ### 😄 Pronouns
 He/Him
