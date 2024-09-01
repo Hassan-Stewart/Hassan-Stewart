@@ -48,6 +48,7 @@ I co-own a clothing brand called 'Dangerously Tenacious' with my cousin.
 ### 📂 Repo List
 Welcome to my repo! I am a Computer Science major with a passion for development and innovation. Within my repo, you will find a variety of projects ranging from web applications to database systems. Below are a few of my repositories, mostly for educational purposes.
 
+- **[Puzzle Vault](https://github.com/Hassan-Stewart/Hassan-Puzzle-Vault)**: A puzzle vault with leetcode like questions with a description and explanation to go along with them
 - **[Dangerously Tenacious Store](https://github.com/Hassan-Stewart/Dangerously-Tenacious-Store)**: An e-commerce website built with the MERN stack.
 - **[HaAmiSphere](https://github.com/Hassan-Stewart/HaAmiSphere)**: A social media app for users to connect and share content.
 - **[Employee Tracker Database](https://github.com/Hassan-Stewart/Employee-Tracker-Database)**: A system for managing employee information.
