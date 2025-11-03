@@ -34,7 +34,7 @@ Aspiring **Identity and Access Management (IAM)** professional | Tech enthusiast
 ## 🛠️ Projects
 
 ### 💼 [Personal Portfolio Website](https://github.com/HassanStewart/Personal-Portfolio-Website)  
-My personal portfolio showcasing projects, skills, and career goals.  
+My personal portfolio showcases projects, skills, and career goals.  
 
 ### 👕 [Dangerously Tenacious Store](https://github.com/HassanStewart/Dangerously-Tenacious-Store)  
 A bold clothing brand that represents resilience and style.  
