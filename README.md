@@ -1,60 +1,50 @@
-## Hassan Stewart
-**Innovative Developer (Developer/Clothing Brand Owner)**
+# 👋 Hey there, I'm Hassan Stewart
 
-### About Me
-Hi, I'm Hassan! I'm a Computer Science major with a background in Information Technology. I am an aspiring Software Developer looking to create and innovate
+Aspiring **Identity and Access Management (IAM)** professional | Tech enthusiast | Creator of **Dangerously Tenacious**  
 
-### 🔭 Current Projects
-- **E-commerce Website (Dangerously Tenacious Store)**: Full-stack application using the MERN stack.
-- **Social Media App (HaAmiSphere)**: Platform for users to connect and share content.
-- **Employee Tracker Database**: System for managing employee information.
-- **Chat Application**: Real-time messaging app.
-- **Personal Portfolio Website**: Showcase of my projects and skills.
+💡 Passionate about secure systems, innovative web solutions, and bold ideas.  
 
-### 🌱 Currently Learning
-- JavaScript and React
-- Java and Python
-- HTML and CSS
-- Basic concepts of React.js, Node.js, Tailwind CSS, and Express
-- Data structures and algorithms
+---
 
-### 👯 Looking to Collaborate On
-- Front-End applications
-- Back-End applications
-- Mobile applications
-- Learning-focused group projects
+## 🎯 Career Goals
+- Specializing in **Identity & Access Management**  
+- Exploring **cybersecurity, authentication systems, and access control**  
+- Building expertise in **enterprise IT & cloud infrastructure**
 
-### 🤔 Seeking Help With
-- Improving my coding skills through feedback and code reviews
-- Understanding advanced concepts in JavaScript, React, Java, and Python
-- Gaining more hands-on experience in software development
+---
 
-### 💬 Ask Me About
-- My journey in learning to code
-- Balancing school and personal projects
-- Resources and tutorials for beginners
+## 💻 Skills & Tools
 
-### 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/hassan-stewart-887764164/)
-- [GitHub](https://github.com/Hassan-Stewart)
-- [Email](hassan24stewart@gmail.com)
+### Programming & Web
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 😄 Pronouns
-He/Him
+### Tools & Platforms
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### ⚡ Fun Fact
-I co-own a clothing brand called 'Dangerously Tenacious' with my cousin.
+---
 
-### 📂 Repo List
-Welcome to my repo! I am a Computer Science major with a passion for development and innovation. Within my repo, you will find a variety of projects ranging from web applications to database systems. Below are a few of my repositories, mostly for educational purposes.
+## 🛠️ Projects
 
-- **[Puzzle Vault](https://github.com/Hassan-Stewart/Hassan-Puzzle-Vault)**: A puzzle vault with leetcode like questions with a description and explanation to go along with them
-- **[Dangerously Tenacious Store](https://github.com/Hassan-Stewart/Dangerously-Tenacious-Store)**: An e-commerce website built with the MERN stack.
-- **[HaAmiSphere](https://github.com/Hassan-Stewart/HaAmiSphere)**: A social media app for users to connect and share content.
-- **[Employee Tracker Database](https://github.com/Hassan-Stewart/Employee-Tracker-Database)**: A system for managing employee information.
-- **[Chat Application](https://github.com/Hassan-Stewart/Chat-Application)**: A real-time messaging app.
-- **[Personal Portfolio Website](https://github.com/Hassan-Stewart/Personal-Portfolio-Website)**: A showcase of my projects and skills.
+### 💼 [Personal Portfolio Website](https://github.com/HassanStewart/Personal-Portfolio-Website)  
+My personal portfolio showcasing projects, skills, and career goals.  
 
-Feel free to explore these repositories to see what I'm working on and to get a sense of my development journey.
+### 👕 [Dangerously Tenacious Store](https://github.com/HassanStewart/Dangerously-Tenacious-Store)  
+A bold clothing brand that represents resilience and style.  
 
+---
 
+## 📫 Connect With Me
+- GitHub: [Hassan Stewart](https://github.com/HassanStewart)  
+- Email: your-email@example.com  
+
+---
+
+## 📊 GitHub Stats
+![Hassan Stewart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HassanStewart&show_icons=true&theme=radical)
