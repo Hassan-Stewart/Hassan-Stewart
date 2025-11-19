@@ -35,7 +35,9 @@ Aspiring **Identity and Access Management (IAM) professional** | Tech enthusiast
 - Email: Hassan24Stewart@gmail.com  
 
 ---
-
 ## 📊 GitHub Stats
+
+![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassan-Stewart&show_icons=true&count_private=true&theme=radical)
+
 
 <!-- Optional: embed your GitHub stats with GitHub Readme Stats -->
