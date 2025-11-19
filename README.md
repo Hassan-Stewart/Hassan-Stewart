@@ -24,14 +24,14 @@ Aspiring **Identity and Access Management (IAM) professional** | Tech enthusiast
 - VS Code  
 
 **Platforms & Tools:**  
-- VMware Workstation Pro 🖥️ (used for IAM labs including CyberArk and AD setups)
+- VMware Workstation Pro 🖥️ (used for IAM labs, including CyberArk and AD setups)
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: [Hassan Stewart](https://github.com/Hassan-Stewart)  
-- Email: your-email@example.com  
+- Email: Hassan24Stewart@gmail.com  
 
 ---
 
