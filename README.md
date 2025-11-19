@@ -21,7 +21,8 @@ Aspiring **Identity and Access Management (IAM) professional** | Tech enthusiast
 - Python 🐍, Java ☕, PowerShell ⚡  
 
 **Development Tools:**  
-- VS Code  
+- VS Code
+- Eclipse IDE
 
 **Platforms & Tools:**  
 - VMware Workstation Pro 🖥️ (used for IAM labs, including CyberArk and AD setups)
