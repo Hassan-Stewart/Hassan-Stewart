@@ -18,7 +18,7 @@ Aspiring **Identity and Access Management (IAM) professional** | Tech enthusiast
 ## 💻 Skills & Tools
 
 **Programming & Scripting:**  
-- Python 🐍 · Java ☕ · PowerShell ⚡ *(beginner, growing)*  
+- Python 🐍 · Java ☕ · PowerShell ⚡ · Bash 🐚
 
 **Development Tools:**  
 - VS Code  
