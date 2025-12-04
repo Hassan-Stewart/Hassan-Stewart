@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Hassan Stewart
 
-Aspiring **Identity and Access Management (IAM) professional** | Tech enthusiast | Creator of **Dangerously Tenacious**  
+Aspiring **Identity and Access Management (IAM) professional** | Tech enthusiast | Creator of **Dangerously Tenacious Clothing**  
 
 💡 Passionate about **secure systems**, **automation**, and **innovative solutions** that bridge cybersecurity and development.
 
