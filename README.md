@@ -39,4 +39,4 @@ Aspiring **Identity and Access Management (IAM) professional** | Tech enthusiast
 
 ### 🔥 Github stats
 
-[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))  
+[GitHub Readme Stats](https://github.com/hassanstewart/github-readme-stats))  
