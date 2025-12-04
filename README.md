@@ -1,37 +1,33 @@
-# 👋 Hey there, I'm Hassan Stewart
+👋 Hey there, I'm Hassan Stewart
 
-Aspiring **Identity and Access Management (IAM) professional** | Tech enthusiast | Creator of **Dangerously Tenacious Clothing**  
+Aspiring Identity and Access Management (IAM) professional | Tech enthusiast | Creator of Dangerously Tenacious Clothing
 
-💡 Passionate about **secure systems**, **automation**, and **innovative solutions** that bridge cybersecurity and development.
+💡 Passionate about secure identity systems, automation, and learning how to protect and manage digital access at scale.
 
----
+🎯 Career Goals
 
-## 🎯 Career Goals
+Work with Identity & Access Management (IAM) processes like provisioning, deprovisioning, MFA, and access reviews.
 
-- Work on **Identity & Access Management (IAM) tasks** like provisioning, access reviews, SSO, and privileged account management.  
-- Gain hands-on experience with **CyberArk, Active Directory, and cloud identity platforms**.  
-- Build skills in **automation, scripting, and IAM workflows** to improve efficiency and security.  
-- Grow into higher-level IAM roles such as **IAM Engineer or IAM Architect**.  
+Build hands-on experience with Active Directory, CyberArk, Okta/Entra, and cloud identity platforms.
 
----
+Strengthen automation skills with Python and PowerShell.
 
-## 💻 Skills & Tools
+Develop into an IAM Engineer → IAM Architect over time.
 
-**Programming & Scripting:**  
-- Python 🐍, Java ☕, PowerShell ⚡  
+💻 Skills & Tools
 
-**Development Tools:**  
-- VS Code
-- Eclipse IDE
+Programming & Scripting:
 
-**Platforms & Tools:**  
-- VMware Workstation Pro 🖥️ (used for IAM labs, including CyberArk and AD setups)
+Python 🐍 · Java ☕ · PowerShell ⚡ (beginner, growing)
 
----
+Development Tools:
 
-## 📫 Connect With Me
+VS Code
 
-- GitHub: [Hassan Stewart](https://github.com/Hassan-Stewart)  
-- Email: Hassan24Stewart@gmail.com  
+Eclipse IDE
 
-<!-- Optional: embed your GitHub stats with GitHub Readme Stats -->
+Platforms & Labs:
+
+VMware Workstation Pro 🖥️ (used for building practice environments)
+
+Beginning IAM lab setups with AD/CyberArk/Cloud platforms
