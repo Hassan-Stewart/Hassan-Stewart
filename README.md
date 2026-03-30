@@ -9,9 +9,9 @@ Aspiring **Identity and Access Management (IAM) professional** | Tech enthusiast
 ## 🎯 Career Goals
 
 - Work with **Identity & Access Management (IAM)** processes like provisioning, deprovisioning, MFA, and access reviews.  
-- Build hands-on experience with **Active Directory, CyberArk, Okta/Entra, and cloud identity platforms**.  
+- Build hands-on experience with **Active Directory, CyberArk, Okta/Entra, and Cloud Identity platforms**.  
 - Strengthen automation skills with **Python and PowerShell**.  
-- Develop into an **IAM Engineer → IAM Architect** over time.
+- Develop into an **IAM Analyst/CyberArk Analyst -> IAM Engineer/CyberArk Engineer**
 
 ---
 
