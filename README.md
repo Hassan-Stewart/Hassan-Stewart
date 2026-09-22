@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Hassan Stewart
 
-Aspiring **Identity and Access Management (IAM) professional/ Privileged Access Management (PAM) professionaln** | Tech enthusiast 
+**Identity and Access Management (IAM) professional/ Privileged Access Management (PAM) professionaln** | Tech enthusiast 
 
 💡 Passionate about **secure identity systems**, **automation**, and learning how to protect and manage digital access at scale.
 
@@ -8,8 +8,8 @@ Aspiring **Identity and Access Management (IAM) professional/ Privileged Access 
 
 ## 🎯 Career Goals
 
-- Work with **Identity & Access Management (IAM)/Privileged Access Management(PAM)** processes like provisioning, deprovisioning, MFA, and access reviews.  
-- Build hands-on experience with **Active Directory, CyberArk, Okta/Entra, and Cloud Identity platforms**.  
+- Improve in **Identity & Access Management (IAM)/Privileged Access Management(PAM)** processes like provisioning, deprovisioning, MFA, and access reviews.  
+- Keep building hands-on experience with **Active Directory, CyberArk, Okta/Entra, and Cloud Identity platforms**.  
 - Strengthen automation skills with **Python and PowerShell**.  
 - Develop into an **IAM Analyst/PAM Analyst/CyberArk Analyst -> IAM Engineer/PAM Engineer/CyberArk Engineer**
 
@@ -26,7 +26,6 @@ Aspiring **Identity and Access Management (IAM) professional/ Privileged Access 
 
 **Platforms & Labs:**  
 - VMware Workstation Pro 🖥️ (used for building practice environments)  
-- Beginning IAM lab setups with AD/CyberArk/Cloud platforms  
 
 ---
 
