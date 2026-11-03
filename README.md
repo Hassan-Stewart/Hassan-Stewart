@@ -18,7 +18,7 @@
 ## 💻 Skills & Tools
 
 **Programming & Scripting:**  
-- Python 🐍 · Java ☕ · PowerShell ⚡ · Bash 🐚
+- Python 🐍 · PowerShell ⚡ 
 
 **Development Tools:**  
 - VS Code  
